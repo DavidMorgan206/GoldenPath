@@ -1,0 +1,18 @@
+
+#eclipse stuff (.idea IS checked in)
+/.project
+/.buildpath
+
+#external packages
+main/golden-paths/node_modules
+test/selenium/node_modules
+test/codeception/vendor
+
+#Test Output Files
+/debug.log
+test/codeception/tests/_output
+test/selenium/test-output
+test/codeception/debug.log
+#exclude text image assets in case of copyrights
+test/codeception/tests/_data/testImages
+*.log

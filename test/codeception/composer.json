@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+    },
+    "require": {
+        "flow/jsonpath": "^0.4.0",
+        "lucatume/wp-browser": "^2.2"
+    }
+}

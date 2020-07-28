@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Codeception Tests" type="CodeceptionConfigurationType" factoryName="Codeception">
+    <PhpTestRunnerSettings directory="$PROJECT_DIR$/test/codeception" method="" scope="ConfigurationFile" />
+    <method v="2">
+      <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_local deploy" />
+    </method>
+  </configuration>
+</component>
