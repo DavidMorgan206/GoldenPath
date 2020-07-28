@@ -1,8 +1,8 @@
-# GoldenPaths
+# GoldenPath
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
-Golden Paths is a WordPress Plugin for creating and rendering structured user flows (*Paths*) like Listicles, Buying Guides, How-To's, etc. 
+GoldenPaths is a WordPress Plugin for creating and rendering structured user flows (*Paths*) like Listicles, Buying Guides, How-To's, etc. 
 
 Admins can quickly build new Paths with no HTML/CSS experience:
 
