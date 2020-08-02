@@ -22,7 +22,7 @@ To see Golden Paths in action, head over to our sample site, [Dog Dues](https://
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for *plugin* development. To use the plugin as is, skip to **deployment** for notes on installing in your wordpress instance.
+These instructions will get a copy of the project up and running on your local machine for *plugin* development. To use the plugin as is, skip to **deployment** for notes on installing in your wordpress instance.
 
 ### Prerequisites
 
@@ -56,7 +56,7 @@ To deploy to your wordpress installation, just copy /main/golden-paths to /wp-co
 
 **Running Tests With Docker**
 
-Currently only unit tests are supported by the container defined in *DockerFile*.  This is not enough coverage for a pull request, so it's not really useful yet.
+Currently, only unit tests are supported by the container defined in *DockerFile*.  This is not enough coverage for a pull request, so it's not really useful yet.
 TODO: make a docker image with full test environment so we can switch to CI and simplify setup. 
 
 **Running Tests Locally**
@@ -71,7 +71,7 @@ TODO: make a docker image with full test environment so we can switch to CI and 
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/DavidMorgan206/GoldenPaths/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/DavidMorgan206/GoldenPath/tags). 
 
 ## Authors
 
